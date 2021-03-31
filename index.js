@@ -13,7 +13,7 @@ function writeCards(arr, event) {
 function countDown(i) {
     while (i >= 0) {
         console.log(i);
-        i -= 1
+        i--
     }
 
 }
